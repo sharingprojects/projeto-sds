@@ -22,8 +22,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<h2>
-[Sales Dashboard](https://icastell-dsvendas.netlify.app/dashboard)</h2>
+
+[Sales Dashboard](https://icastell-dsvendas.netlify.app/dashboard)
 
 The sales dashboard is a full stack web application built during the 3rd edition of DevSuperior Week (#sds), 
 an event organized by the DevSuperior school. The application consists of a Sales Analysis Panel, 
@@ -95,8 +95,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* [DevSuperior](https://github.com/devsuperior)
 * [Heroku](https://id.heroku.com)
 * [Netlify](https://www.netlify.com)
 * [Img Shields](https://shields.io)
-* [DevSuperior](https://github.com/devsuperior)
+
 
