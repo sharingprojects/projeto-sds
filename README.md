@@ -22,15 +22,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[Sales Dashboard](https://icastell-dsvendas.netlify.app/dashboard)
+<h2>
+[Sales Dashboard](https://icastell-dsvendas.netlify.app/dashboard)</h2>
 
 The sales dashboard is a full stack web application built during the 3rd edition of DevSuperior Week (#sds), 
 an event organized by the DevSuperior school. The application consists of a Sales Analysis Panel, 
 under different perspectives, that is, it shows a graph with the "Success Rate" by sales, 
 which is the sum of the closed sales numbers of the business divided by the sum of the number of visits made by a seller. 
 It will also show the total percentage of each sales of sellers value shown in the “All sales” chart. 
-In addition, "All sales" is being shown in a paginated table.
+In addition, "All sales" is being shown in a paginated table. the backend was deployed to Heroku and the frontend was deployed to Netlify.
 
 ### Built With
 
@@ -95,6 +95,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* [Heroku](https://id.heroku.com)
+* [Netlify](https://www.netlify.com)
 * [Img Shields](https://shields.io)
 * [DevSuperior](https://github.com/devsuperior)
 
